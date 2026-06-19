@@ -97,9 +97,8 @@ src/
 
 ## Status
 
-Sistema em produção desde 2025. Desenvolvimento contínuo — atualmente na Fase 9 (suporte completo a síndico + painel web para operadores).
+Em desenvolvimento desde fevereiro/março de 2026. Desenvolvimento contínuo — atualmente na Fase 9 (suporte completo a síndico + painel web para operadores).
 
 ---
 
-*Código proprietário — este repositório existe apenas para referência de portfólio.*  
-*Para conversar sobre os detalhes técnicos: maaevedo664@gmail.com*
+*Código proprietário — este repositório existe apenas para referência de portfólio.*
