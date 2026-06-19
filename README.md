@@ -95,9 +95,22 @@ src/
 
 ---
 
+## Produtos
+
+O sistema é composto por dois produtos complementares:
+
+| Produto | Descrição | Status |
+|---------|-----------|--------|
+| **Guardian Agent (WhatsApp)** | Agente conversacional — o porteiro virtual em si | Em produção |
+| **Painel Web** | Interface para operadores e equipe de qualidade; consome os módulos de ocorrências e dispositivos desta API | Em desenvolvimento |
+
+O painel web vive em um repositório separado (`frontend-portaria`) e em breve incluirá módulos de estoque e dashboard de acompanhamento.
+
+---
+
 ## Status
 
-Em desenvolvimento desde fevereiro/março de 2026. Desenvolvimento contínuo — atualmente na Fase 9 (suporte completo a síndico + painel web para operadores).
+Em desenvolvimento desde fevereiro/março de 2026. Desenvolvimento contínuo — atualmente na Fase 9 (suporte completo a síndico + expansão do painel web).
 
 ---
 
